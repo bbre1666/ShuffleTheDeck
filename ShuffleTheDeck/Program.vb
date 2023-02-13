@@ -5,7 +5,7 @@ Option Strict On
 'RECT 0265
 'spring 23
 'ShuffleTheDeck
-'
+'https://github.com/bbre1666/ShuffleTheDeck.git
 Imports System
 
 Module Program
